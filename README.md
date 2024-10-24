@@ -4,6 +4,7 @@
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
 - [Simple packet sniffer](https://github.com/lbrodziak/packet_sniffer)
+- [Active Directory Lab](https://github.com/lbrodziak/ActiveDirectoryLab)
 
 <h2>Tools used in projects</h2>
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
