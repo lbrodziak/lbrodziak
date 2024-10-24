@@ -5,7 +5,7 @@
 
 - [Active directory home lab]()
 
-<h2>Tools</h2>
+<h2>Tools used in projects</h2>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 
