@@ -1,5 +1,5 @@
 <h1>Hi, I'm Łukasz! <br/></h1>
-<h2>I am a Quality Assurance Engineer and a Cybersecurity enthusiast.</h2>
+<h3>I am a Quality Assurance Engineer and a Cybersecurity enthusiast.</h3>
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
