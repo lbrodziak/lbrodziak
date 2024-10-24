@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
-- [Simple packet sniffer]()
+- [Simple packet sniffer](https://github.com/lbrodziak/packet_sniffer)
 
 <h2>Tools used in projects</h2>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
