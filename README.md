@@ -5,6 +5,7 @@
 
 - [Simple packet sniffer](https://github.com/lbrodziak/packet_sniffer)
 - [Active Directory Lab](https://github.com/lbrodziak/ActiveDirectoryLab)
+- [Wireshark pcap analysis(HTB write up)](https://github.com/lbrodziak/wireshark_pcap_analysis)
 
 <h2>👨‍💻 DevOps projects:</h2>
 
@@ -14,8 +15,10 @@
 
 - Python
 - Windows Server 2022
+- Windows 10
 - Active Directory
 - Powershell
+- Wireshark
 - Oracle VirtualBox
 
 <h2>Skills learned in projects</h2>
