@@ -11,6 +11,7 @@
 - To be added
 
 <h2>Tools used in projects</h2>
+
 - Python
 - Windows Server 2022
 - Active Directory
@@ -18,8 +19,10 @@
 - Oracle VirtualBox
 
 <h2>Skills learned in projects</h2>
+
 - Basic network traffic analysis
 - Active Directory setup basics
+- Virtualisation with Oracle VirtualBox
 - Virtualisation with Oracle VirtualBox
 
 <h2>Certifications</h2>
