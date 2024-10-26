@@ -7,8 +7,9 @@
   - [Simple packet sniffer](https://github.com/lbrodziak/packet_sniffer)
 - <b>Labs</b>
   - [Active Directory Lab](https://github.com/lbrodziak/ActiveDirectoryLab)
-- <b>HTB write ups</b>
+- <b>HTB CTF write ups</b>
   - [Wireshark pcap analysis](https://github.com/lbrodziak/wireshark_pcap_analysis)
+  - [Website SQL injection](https://github.com/lbrodziak/sql_injection_tutorial_htb)
 
 <h2>👨‍💻 DevOps projects:</h2>
 
