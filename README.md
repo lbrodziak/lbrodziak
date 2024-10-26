@@ -3,9 +3,12 @@
 
 <h2>👨‍💻 Cybersecurity projects:</h2>
 
-- [Simple packet sniffer](https://github.com/lbrodziak/packet_sniffer)
-- [Active Directory Lab](https://github.com/lbrodziak/ActiveDirectoryLab)
-- [Wireshark pcap analysis(HTB write up)](https://github.com/lbrodziak/wireshark_pcap_analysis)
+- <b>Coding</b>
+  - [Simple packet sniffer](https://github.com/lbrodziak/packet_sniffer)
+- <b>Labs</b>
+  - [Active Directory Lab](https://github.com/lbrodziak/ActiveDirectoryLab)
+- <b>HTB write ups</b>
+  - [Wireshark pcap analysis](https://github.com/lbrodziak/wireshark_pcap_analysis)
 
 <h2>👨‍💻 DevOps projects:</h2>
 
