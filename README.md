@@ -13,7 +13,7 @@
 
 <h2>👨‍💻 DevOps projects:</h2>
 
-- [Web app EKS deployment] https://github.com/lbrodziak/web_app_eks_deployment
+- [Web app EKS deployment](https://github.com/lbrodziak/web_app_eks_deployment)
 
 <h2>Tools used in projects</h2>
 
