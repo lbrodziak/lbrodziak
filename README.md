@@ -26,7 +26,6 @@
 - Basic network traffic analysis
 - Active Directory setup basics
 - Virtualisation with Oracle VirtualBox
-- Virtualisation with Oracle VirtualBox
 - Docker
 - AWS basics
 - Kubernetes and EKS basics
