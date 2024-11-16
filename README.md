@@ -30,7 +30,7 @@
 - Docker
 - AWS basics
 - Kubernetes and EKS basics
-- GitHub Actions
+- CI/CD basics with GitHub Actions
 
 <h2>Certifications</h2>
 <a href="https://coursera.org/share/055806cc4e6fbaa31deda674dec460fc"/><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /><br>
