@@ -11,14 +11,9 @@
   - [Wireshark pcap analysis](https://github.com/lbrodziak/wireshark_pcap_analysis)
   - [Website SQL injection](https://github.com/lbrodziak/sql_injection_tutorial_htb)
 
-<h2>DevOps projects</h2>
-
-- [Web app EKS deployment](https://github.com/lbrodziak/aws_eks_deploy)
-
 <h2>Tools and languages</h2>
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 10" width="50" height="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Oracle VirtualBox" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="50" height="50"/> 
-  <img src="https://github.com/user-attachments/assets/8476913d-06eb-4788-8d8c-8ec8bdaf2d99" alt="GitHub Actions" width="50" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Oracle VirtualBox" width="50" height="50"/>
 </p>
 
 <h2>Skills learned in projects</h2>
@@ -26,9 +21,6 @@
 - Basic network traffic analysis
 - Active Directory setup basics
 - Virtualisation with Oracle VirtualBox
-- Docker
-- AWS basics
-- Kubernetes and EKS basics
 - CI/CD basics with GitHub Actions
 
 <h2>Certifications</h2>
