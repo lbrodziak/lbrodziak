@@ -25,7 +25,10 @@
 - Basic network traffic analysis
 - Active Directory setup basics
 - Virtualisation with Oracle VirtualBox
-- CI/CD basics with GitHub Actions
+- VM instance creation basics in GCP
+- GCP firewall rules creation basics
+- Web app vulnerability scanning in GCP
+
 
 <h2>Certifications</h2>
 <a href="https://coursera.org/share/055806cc4e6fbaa31deda674dec460fc"/><img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /><br>
