@@ -1,5 +1,5 @@
 <h1>Hi! <br/></h1>
-<h3>I am a Quality Assurance Engineer with interest in Cybersecurity and DevOps.</h3>
+<h3>I am a Quality Assurance Engineer with interest in Cybersecurity.</h3>
 
 <h2>Cybersecurity projects:</h2>
 
