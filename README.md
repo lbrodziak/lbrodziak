@@ -10,6 +10,8 @@
 - <b>HTB CTF write ups</b>
   - [Wireshark pcap analysis](https://github.com/lbrodziak/wireshark_pcap_analysis)
   - [Website SQL injection](https://github.com/lbrodziak/sql_injection_tutorial_htb)
+- <b>Cloud security</b>
+  - [Web security scan](https://github.com/lbrodziak/wireshark_pcap_analysis)
 
 <h2>Tools and languages</h2>
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 10" width="50" height="50"/> 
