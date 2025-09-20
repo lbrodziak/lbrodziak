@@ -21,6 +21,7 @@
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 10" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Oracle VirtualBox" width="50" height="50"/>
 <img src="https://github.com/user-attachments/assets/92463d4a-7971-498c-8555-6bf46c6913aa" alt="GCP" width="60" height="50"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.65.0/files/dark/aws-color.png" alt="GCP" width="50" height="50"/>
 </p>
 
 
