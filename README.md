@@ -13,7 +13,7 @@
 <h2>Cloud/DevOps projects:</h2>
 
 - <b>AWS</b>
-  - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
+  - [Setup static website hosting on S3](https://github.com/lbrodziak/aws-s3-static-website-hosting)
 - <b>Google cloud</b>
   - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
 
