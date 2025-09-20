@@ -33,6 +33,8 @@
 - VM instance creation basics in GCP
 - GCP firewall rules creation basics
 - Web app vulnerability scanning in GCP
+- Creating S3 bucket
+- Setting up webhosting on S3
 
 
 <h2>Certifications</h2>
