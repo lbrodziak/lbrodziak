@@ -10,7 +10,11 @@
 - <b>HTB CTF write ups</b>
   - [Wireshark pcap analysis](https://github.com/lbrodziak/wireshark_pcap_analysis)
   - [Website SQL injection](https://github.com/lbrodziak/sql_injection_tutorial_htb)
-- <b>Cloud security</b>
+<h2>Cloud/DevOps projects:</h2>
+
+- <b>AWS</b>
+  - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
+- <b>Google cloud</b>
   - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
 
 <h2>Tools and languages</h2>
