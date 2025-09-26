@@ -14,6 +14,7 @@
 
 - <b>AWS</b>
   - [Setup static website hosting on S3](https://github.com/lbrodziak/aws-s3-static-website-hosting)
+  - [AWS security with IAM](https://github.com/lbrodziak/aws-security-with-iam)
 - <b>Google cloud</b>
   - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
 
