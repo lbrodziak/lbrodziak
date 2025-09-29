@@ -1,6 +1,5 @@
 <h1>Hi! <br/></h1>
-<h3>I am a Quality Assurance Engineer with interest in Cybersecurity and Cloud/DevOps</h3>
-
+<h3>I am a Quality Assurance Engineer with interest in Cybersecurity and Cloud/DevOps</h3> 
 <h2>Cybersecurity projects:</h2>
 
 - <b>Coding</b>
@@ -15,6 +14,7 @@
 - <b>AWS</b>
   - [Setup static website hosting on S3](https://github.com/lbrodziak/aws-s3-static-website-hosting)
   - [AWS security with IAM](https://github.com/lbrodziak/aws-security-with-iam)
+  - [7 days DevOps challenge]([https://github.com/lbrodziak/aws-security-with-iam](https://github.com/lbrodziak/7-days-devops-challenge)
 - <b>Google cloud</b>
   - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
 
