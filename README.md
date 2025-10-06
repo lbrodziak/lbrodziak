@@ -37,6 +37,7 @@
 - Web app vulnerability scanning in GCP
 - Creating S3 bucket
 - Setting up webhosting on S3
+- Setting up a fully automated CI/CD pipeline in AWS using S3, CodeArtifact, CodeBuild, CodeDeploy and EC2 instance.
 
 
 <h2>Certifications</h2>
