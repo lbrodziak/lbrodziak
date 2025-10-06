@@ -16,6 +16,7 @@
   - [AWS security with IAM](https://github.com/lbrodziak/aws-security-with-iam)
   - [7 days DevOps challenge](https://github.com/lbrodziak/7-days-devops-challenge)
   - [Building three-tier web app](https://github.com/lbrodziak/aws-three-tier-architecture)
+  - [Creating EKS cluster](https://github.com/lbrodziak/aws-create-eks-cluster)
 - <b>Google cloud</b>
   - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
 
