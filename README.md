@@ -17,7 +17,7 @@
   - [7 days DevOps challenge](https://github.com/lbrodziak/7-days-devops-challenge)
   - [Building three-tier web app](https://github.com/lbrodziak/aws-three-tier-architecture)
   - [Deploy backend to EKS](https://github.com/lbrodziak/aws-deploy-app-to-eks)
-  - [Deplo app to Elastic beanstalk](https://github.com/lbrodziak/aws-deploy-app-elastic-beanstalk)
+  - [Deploy app to Elastic beanstalk](https://github.com/lbrodziak/aws-deploy-app-elastic-beanstalk)
 - <b>Google cloud</b>
   - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
 
