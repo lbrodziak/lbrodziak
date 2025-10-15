@@ -40,6 +40,7 @@
 - Creating S3 bucket
 - Setting up webhosting on S3
 - Setting up a fully automated CI/CD pipeline in AWS using S3, CodeArtifact, CodeBuild, CodeDeploy and EC2 instance.
+- Setting up Elastic Beanstalk and deploying containerized application
 
 
 <h2>Certifications</h2>
