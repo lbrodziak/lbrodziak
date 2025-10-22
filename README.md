@@ -13,7 +13,7 @@
 
 - <b>AWS</b>
   - <b>Networking and VPCs<b>
-     - [Setup static website hosting on S3](https://github.com/lbrodziak/aws-s3-static-website-hosting)
+     - [Setup a basic VPC](https://github.com/lbrodziak/aws-networking-vpc-basics/)
   - <b>DevOps<b>
      - [7 days DevOps challenge](https://github.com/lbrodziak/7-days-devops-challenge)
      - [Deploy backend to EKS](https://github.com/lbrodziak/aws-deploy-app-to-eks)
