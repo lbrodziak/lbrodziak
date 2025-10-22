@@ -12,12 +12,18 @@
 <h2>Cloud/DevOps projects:</h2>
 
 - <b>AWS</b>
-  - [Setup static website hosting on S3](https://github.com/lbrodziak/aws-s3-static-website-hosting)
-  - [AWS security with IAM](https://github.com/lbrodziak/aws-security-with-iam)
-  - [7 days DevOps challenge](https://github.com/lbrodziak/7-days-devops-challenge)
-  - [Building three-tier web app](https://github.com/lbrodziak/aws-three-tier-architecture)
-  - [Deploy backend to EKS](https://github.com/lbrodziak/aws-deploy-app-to-eks)
-  - [Deploy app to Elastic beanstalk](https://github.com/lbrodziak/aws-deploy-app-elastic-beanstalk)
+  - <b>Networking and VPCs<b>
+     - [Setup static website hosting on S3](https://github.com/lbrodziak/aws-s3-static-website-hosting)
+  - <b>DevOps<b>
+     - [7 days DevOps challenge](https://github.com/lbrodziak/7-days-devops-challenge)
+     - [Deploy backend to EKS](https://github.com/lbrodziak/aws-deploy-app-to-eks)
+     - [Deploy app to Elastic beanstalk](https://github.com/lbrodziak/aws-deploy-app-elastic-beanstalk)
+     - [Setup static website hosting on S3](https://github.com/lbrodziak/aws-s3-static-website-hosting)
+     - [Building three-tier web app](https://github.com/lbrodziak/aws-three-tier-architecture)
+  - <b> AWS cloud security</b>
+     - [AWS security with IAM](https://github.com/lbrodziak/aws-security-with-iam)
+
+  
 - <b>Google cloud</b>
   - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
 
