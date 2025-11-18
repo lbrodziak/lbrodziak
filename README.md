@@ -22,6 +22,7 @@
      - [Building three-tier web app](https://github.com/lbrodziak/aws-three-tier-architecture)
   - <b> AWS cloud security</b>
      - [AWS security with IAM](https://github.com/lbrodziak/aws-security-with-iam)
+     - [Threat detection with GuardDuty](https://github.com/lbrodziak/aws-seurity-guardduty)
 
   
 - <b>Google cloud</b>
