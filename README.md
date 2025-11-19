@@ -11,24 +11,6 @@
   - [Website SQL injection](https://github.com/lbrodziak/sql_injection_tutorial_htb)
 <h2>Cloud/DevOps projects:</h2>
 
-- <b>AWS</b>
-  - <b>Networking and VPCs<b>
-     - [Setup a basic VPC](https://github.com/lbrodziak/aws-networking-vpc-basics/)
-     - [VPC traffic flow and security](https://github.com/lbrodziak/aws-vpc-traffic-and-security)
-     - [Create a private subnet](https://github.com/lbrodziak/aws-networking-private-subnet)
-  - <b>DevOps<b>
-     - [7 days DevOps challenge](https://github.com/lbrodziak/7-days-devops-challenge)
-     - [Deploy backend to EKS](https://github.com/lbrodziak/aws-deploy-app-to-eks)
-     - [Deploy app to Elastic beanstalk](https://github.com/lbrodziak/aws-deploy-app-elastic-beanstalk)
-     - [Setup static website hosting on S3](https://github.com/lbrodziak/aws-s3-static-website-hosting)
-     - [Building three-tier web app](https://github.com/lbrodziak/aws-three-tier-architecture)
-  - <b> AWS cloud security</b>
-     - [AWS security with IAM](https://github.com/lbrodziak/aws-security-with-iam)
-     - [Threat detection with GuardDuty](https://github.com/lbrodziak/aws-seurity-guardduty)
-     - [Encrypt Data with AWS KMS](https://github.com/lbrodziak/aws-security-kms)
-
-
-  
 - <b>Google cloud</b>
   - <b> GCP cloud security</b>
     - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
@@ -49,17 +31,6 @@
 - VM instance creation basics in GCP
 - GCP firewall rules creation basics
 - Web app vulnerability scanning in GCP
-- Creating S3 bucket
-- Setting up webhosting on S3
-- Setting up a fully automated CI/CD pipeline in AWS using S3, CodeArtifact, CodeBuild, CodeDeploy and EC2 instance.
-- Setting up Elastic Beanstalk and deploying containerized application
-- Setting up EKS cluster and deploying application to it
-- Securing data in the cloud using KMS
-- Threat detection and monitoring using GuardDuty
-- Basics of setting up an API using AWS API Gateway
-- Setting up DynamoDB tables
-- Basics of AWS Lambda functions
-- Creating basic VPCs and Subnets in AWS
 
 
 <h2>Certifications</h2>
