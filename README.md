@@ -23,6 +23,8 @@
   - <b> AWS cloud security</b>
      - [AWS security with IAM](https://github.com/lbrodziak/aws-security-with-iam)
      - [Threat detection with GuardDuty](https://github.com/lbrodziak/aws-seurity-guardduty)
+     - [Encrypt Data with AWS KMS](https://github.com/lbrodziak/aws-security-kms)
+
 
   
 - <b>Google cloud</b>
