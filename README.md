@@ -53,6 +53,13 @@
 - Setting up webhosting on S3
 - Setting up a fully automated CI/CD pipeline in AWS using S3, CodeArtifact, CodeBuild, CodeDeploy and EC2 instance.
 - Setting up Elastic Beanstalk and deploying containerized application
+- Setting up EKS cluster and deploying application to it
+- Securing data in the cloud using KMS
+- Threat detection and monitoring using GuardDuty
+- Basics of setting up an API using AWS API Gateway
+- Setting up DynamoDB tables
+- Basics of AWS Lambda functions
+- Creating basic VPCs and Subnets in AWS
 
 
 <h2>Certifications</h2>
