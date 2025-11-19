@@ -14,6 +14,9 @@
 - <b>AWS</b>
   - <b>Networking and VPCs<b>
      - [Setup a basic VPC](https://github.com/lbrodziak/aws-networking-vpc-basics/)
+     - [VPC traffic flow and security](https://github.com/lbrodziak/aws-vpc-traffic-and-security)
+     - [Create a private subnet](https://github.com/lbrodziak/aws-networking-private-subnet)
+  - <b>DevOps<b>
   - <b>DevOps<b>
      - [7 days DevOps challenge](https://github.com/lbrodziak/7-days-devops-challenge)
      - [Deploy backend to EKS](https://github.com/lbrodziak/aws-deploy-app-to-eks)
