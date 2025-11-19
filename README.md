@@ -28,7 +28,8 @@
 
   
 - <b>Google cloud</b>
-  - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
+  - <b> GCP cloud security</b>
+    - [Web security scan in Google Cloud](https://github.com/lbrodziak/gcloud_web_security_scan)
 
 <h2>Tools and languages</h2>
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="Windows 10" width="50" height="50"/> 
