@@ -17,6 +17,7 @@
      - [VPC traffic flow and security](https://github.com/lbrodziak/aws-vpc-traffic-and-security)
      - [Create a private subnet](https://github.com/lbrodziak/aws-networking-private-subnet)
      - [Creating private and public EC2 instances](https://github.com/lbrodziak/aws-networking-ec2)
+     - [Testing resource connectivity](https://github.com/lbrodziak/aws-networking-resource-connectiviy)
   - <b>DevOps<b>
      - [7 days DevOps challenge](https://github.com/lbrodziak/7-days-devops-challenge)
      - [Deploy backend to EKS](https://github.com/lbrodziak/aws-deploy-app-to-eks)
