@@ -4,6 +4,7 @@
 
 - <b>Coding</b>
   - [Simple packet sniffer](https://github.com/lbrodziak/packet_sniffer)
+  - [Ollama pentesting tool POC](https://github.com/lbrodziak/ai-pentest-agent)
 - <b>Labs</b>
   - [Active Directory Lab](https://github.com/lbrodziak/ActiveDirectoryLab)
 - <b>HTB CTF write ups</b>
